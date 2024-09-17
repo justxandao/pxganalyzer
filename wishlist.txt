@@ -1,0 +1,18 @@
+-- Interface
+[ ] Start/Stop Button
+[ ] Create Info List
+[ ] Show Item Dropped
+[ ] Additional Info (Food, Berrie)
+
+-- Application
+[ ] Total Experience
+[ ] Total Loot (With NPC Price)
+[ ] Total Kill
+[ ] Pokémon Name
+[ ] Waste Supply (With NPC Price)
+[ ] Session (time)
+[ ] Balance
+
+
+-- Custom
+[ ] Calculate balance with custom price
