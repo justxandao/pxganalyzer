@@ -1,5 +1,6 @@
 -- Interface
 [ ] Start/Stop Button
+[ ] Reset Button
 [ ] Create Info List
 [ ] Show Item Dropped
 [ ] Additional Info (Food, Berrie)
@@ -16,3 +17,4 @@
 
 -- Custom
 [ ] Calculate balance with custom price
+[ ] Set Custom Hunt Time
